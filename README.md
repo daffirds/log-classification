@@ -19,6 +19,8 @@ This project utilizes BERT and LLM to classify system logs, addressing varying l
     - Applied to data with insufficient labeled samples.
     - Used the `gpt-oss-20b` LLM model to label and classify log data.
 
+![Flowchart](res/classif-flowchart.svg)
+
 ---
 
 ## Directory Structure
